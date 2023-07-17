@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajnish kumar
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Full Stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail-rajnishmaharaj8@gmail.com
 
